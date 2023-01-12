@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60px;
+    margin-top: 70px;
+    background: linear-gradient(to right, 
+        #ff0000, #ff7f00, #ffff00, #00ff00, 
+        #0000ff, #4b0082, #9400d3);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}

@@ -1,0 +1,15 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 10vh;
+    background-color:rgb(58, 217, 135);
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 0px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h5{
+  margin-top: 40px;
+  }

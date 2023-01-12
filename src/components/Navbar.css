@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.logoNav {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 70px;
+    text-shadow: 1px 1px 2px rgb(46, 85, 45);
+    background: linear-gradient(to right, 
+        #ff0000, #ff7f00, #ffff00, #00ff00, 
+        #0000ff, #4b0082, #9400d3);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.narbarEstilo {
+    background-color: rgb(58, 217, 135);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.textsize {
+    font-size: 20px;
+}
